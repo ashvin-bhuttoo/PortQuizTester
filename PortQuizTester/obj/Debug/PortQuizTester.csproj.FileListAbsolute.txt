@@ -1,0 +1,10 @@
+C:\Users\DJ_AA\source\repos\PortQuizTester\PortQuizTester\bin\Debug\PortQuizTester.exe.config
+C:\Users\DJ_AA\source\repos\PortQuizTester\PortQuizTester\bin\Debug\PortQuizTester.exe
+C:\Users\DJ_AA\source\repos\PortQuizTester\PortQuizTester\bin\Debug\PortQuizTester.pdb
+C:\Users\DJ_AA\source\repos\PortQuizTester\PortQuizTester\obj\Debug\PortQuizTester.csprojAssemblyReference.cache
+C:\Users\DJ_AA\source\repos\PortQuizTester\PortQuizTester\obj\Debug\PortQuizTester.Properties.Resources.resources
+C:\Users\DJ_AA\source\repos\PortQuizTester\PortQuizTester\obj\Debug\PortQuizTester.csproj.GenerateResource.cache
+C:\Users\DJ_AA\source\repos\PortQuizTester\PortQuizTester\obj\Debug\PortQuizTester.csproj.CoreCompileInputs.cache
+C:\Users\DJ_AA\source\repos\PortQuizTester\PortQuizTester\obj\Debug\PortQuizTester.exe
+C:\Users\DJ_AA\source\repos\PortQuizTester\PortQuizTester\obj\Debug\PortQuizTester.pdb
+C:\Users\DJ_AA\source\repos\PortQuizTester\PortQuizTester\obj\Debug\PortQuizTester.Main.resources
