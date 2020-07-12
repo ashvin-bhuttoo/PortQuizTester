@@ -6,4 +6,4 @@ Note that portquiz is rate limited to 29 connections every 12 seconds, so scanni
 If you want to buy me a beer or say thanks, here's the buttons for it<br/>
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/ABhuttoo?locale.x=en_US) | [![Thanks](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/ashvin.bhuttoo%40gmail.com)
 
-This project was built using VS2019 Community Edition and the Windows Kits Library was installed as it is a dependency.
+This project was built using VS2019 Community Edition.
