@@ -31,30 +31,31 @@ namespace PortQuizTester
 
                 this.PerformSafely(() =>
                 {
-                    listBox1.Items.Add($"Outgoing Port {port} Ok");
-                    int visibleItems = listBox1.ClientSize.Height / listBox1.ItemHeight;
-                    listBox1.TopIndex = Math.Max(listBox1.Items.Count - visibleItems + 1, 0);
+                    richTextBox1.AppendText($"Outgoing Port {port} Ok{Environment.NewLine}");
+                    richTextBox1.SelectionStart = richTextBox1.Text.Length;
+                    richTextBox1.ScrollToCaret();
                 });
 
-                Console.WriteLine($"Port {port} Connected");
+                //Console.WriteLine($"Port {port} Connected");
 
                 tcpclnt.Close();
             }
 
             catch (Exception ex)
             {
-                this.PerformSafely(() =>
-                {
-                    listBox1.Items.Add($"Outgoing Port {port} Error - {ex.Message}");
-                    int visibleItems = listBox1.ClientSize.Height / listBox1.ItemHeight;
-                    listBox1.TopIndex = Math.Max(listBox1.Items.Count - visibleItems + 1, 0);
-                });
-                Console.WriteLine("Error..... " + ex.Message);
+                //this.PerformSafely(() =>
+                //{
+                //    listBox1.Items.Add($"Outgoing Port {port} Error - {ex.Message}");
+                //    int visibleItems = listBox1.ClientSize.Height / listBox1.ItemHeight;
+                //    listBox1.TopIndex = Math.Max(listBox1.Items.Count - visibleItems + 1, 0);
+                //});
+                Console.WriteLine($"Outgoing Port {port} Error - {ex.Message}");
             }
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
+            richTextBox1.Clear();
             running = true;
             for (decimal i=numericUpDown1.Value;i<numericUpDown2.Value;i++)
             {

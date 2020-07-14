@@ -8,3 +8,13 @@ C:\Users\DJ_AA\source\repos\PortQuizTester\PortQuizTester\obj\Debug\PortQuizTest
 C:\Users\DJ_AA\source\repos\PortQuizTester\PortQuizTester\obj\Debug\PortQuizTester.exe
 C:\Users\DJ_AA\source\repos\PortQuizTester\PortQuizTester\obj\Debug\PortQuizTester.pdb
 C:\Users\DJ_AA\source\repos\PortQuizTester\PortQuizTester\obj\Debug\PortQuizTester.Main.resources
+C:\dev\PortQuizTester\PortQuizTester\bin\Debug\PortQuizTester.exe.config
+C:\dev\PortQuizTester\PortQuizTester\bin\Debug\PortQuizTester.exe
+C:\dev\PortQuizTester\PortQuizTester\bin\Debug\PortQuizTester.pdb
+C:\dev\PortQuizTester\PortQuizTester\obj\Debug\PortQuizTester.csprojAssemblyReference.cache
+C:\dev\PortQuizTester\PortQuizTester\obj\Debug\PortQuizTester.Main.resources
+C:\dev\PortQuizTester\PortQuizTester\obj\Debug\PortQuizTester.Properties.Resources.resources
+C:\dev\PortQuizTester\PortQuizTester\obj\Debug\PortQuizTester.csproj.GenerateResource.cache
+C:\dev\PortQuizTester\PortQuizTester\obj\Debug\PortQuizTester.csproj.CoreCompileInputs.cache
+C:\dev\PortQuizTester\PortQuizTester\obj\Debug\PortQuizTester.exe
+C:\dev\PortQuizTester\PortQuizTester\obj\Debug\PortQuizTester.pdb
